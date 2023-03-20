@@ -13,8 +13,7 @@ const Login = () => {
         </div>
 
         <div className="content-wrap">
-          SOME RANDOM TEXT, SOME RANDOM 
-          TEXT,SOME RANDOM TEXT,SOME RANDOM TEXT
+          WELCOME TO EDUCASE PVT LTD. PLEASE LIKE TO MORE SERVICES.
         </div>
         <div className="btn">
           <div className="loginbtn">Login</div>
