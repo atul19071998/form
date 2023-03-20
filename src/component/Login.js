@@ -13,7 +13,8 @@ const Login = () => {
         </div>
 
         <div className="content-wrap">
-          WELCOME TO EDUCASE PVT LTD. PLEASE LIKE TO MORE SERVICES.
+          WELCOME TO EDUCASE PVT LTD. 
+          PLEASE LIKE TO MORE SERVICES.
         </div>
         <div className="btn">
           <div className="loginbtn">Login</div>
