@@ -13,7 +13,8 @@ const Login = () => {
         </div>
 
         <div className="content-wrap">
-          SOME RANDOM TEXT, SOME RANDOM TEXT,SOME RANDOM TEXT,SOME RANDOM TEXT
+          SOME RANDOM TEXT, SOME RANDOM 
+          TEXT,SOME RANDOM TEXT,SOME RANDOM TEXT
         </div>
         <div className="btn">
           <div className="loginbtn">Login</div>
